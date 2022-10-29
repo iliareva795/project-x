@@ -1,0 +1,53 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        /* "*" vutiteb winaswardefault at rom arikos bodyshi an h4 shi margin */
+        /* .margin {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    color: white;
+    text-align: center; */
+        /* margin-left: 200px; */
+        /* margin: 300px; */
+        /* margin-bottom: 100px;
+    padding: 50px; */
+        /* } */
+        /* .padding { */
+        /* width: 100px;
+    height: 100px; */
+        /* background-color: red; */
+        /* margin: 50px 100px; */
+        /* padding: 100px;
+    text-align: center;
+    width: fit-content;
+    color: blue;
+} */
+        /* body {
+            margin: 0;
+        }
+        
+        h4 {
+            margin: 0;
+        }
+         */
+        /* .test {
+            background-color: rgb(13, 18, 2);
+            height: 300px;
+            width: 400px;
+            margin: auto;
+            margin-top: 100px;
+            border: 5px solid red;
+            border-radius: 20px;
+            border-top-left-radius: 100px;
+            border-top-right-radius: 100px;
+        } */
+        /**/
+        
+        .card {
+            width: 200px;
+            height: 300px;
+            border: 5px solid black;
+            margin: auto;
+        }
